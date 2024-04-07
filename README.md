@@ -7,13 +7,13 @@ t.me/hasanm08
 <p></p>
 <h> Home Page </h>
 <p align="center">
-  <img  src="page1.png">
+  <img  src="page1.PNG">
 </p>
 <h> Admin Dashboard</h>
 <p align="center">
-  <img  src="Dashboard-admin.png">
+  <img  src="Dashboard-admin.PNG">
 </p>
 <h> Customer Dashboard</h>
 <p align="center">
-  <img  src="chercher-reser-dispo-client.png">
+  <img  src="chercher-reser-dispo-client.PNG">
 </p>
